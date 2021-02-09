@@ -11,3 +11,5 @@
 [практика урок 7](https://oleg7575.github.io/lesson_7/ "Отзывы")- работа с репозиторием на GitHub
 
 [практика урок 8](https://oleg7575.github.io/lesson_8/ "Доверстали блок отзывы")- работа с репозиторием на GitHub
+
+[урок 21](https://oleg7575.github.io/lesson_21/ "Parallax")- работа с репозиторием на GitHub
